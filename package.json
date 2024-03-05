@@ -1,0 +1,21 @@
+{
+  "name": "com.nehalvxavier.customscreenshot",
+  "version": "1.0.0",
+  "displayName": "Custom Screenshot Helper",
+  "description": "Use this packge to take screenshot of different resolutions at same time.\n Open Custom Helper > Screenshot Helper",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
