@@ -1,3 +1,5 @@
+<img width="444" alt="Screenshot 2024-03-06 at 10 31 06 AM" src="https://github.com/nehalvxavier/Nehal.CustomScreenshot.Editor/assets/106303399/e17b5eba-b011-4018-954e-9be8a6b17d01">
+
 Use this unity package to take screenshots of multiple resolutions at same time. 
 
 How to use
